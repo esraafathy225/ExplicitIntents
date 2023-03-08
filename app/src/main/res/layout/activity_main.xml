@@ -10,7 +10,7 @@
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight="3"
-            android:background="#8033F0">
+            android:background="@color/purple">
                 <ImageView
                     android:layout_width="50dp"
                     android:layout_height="50dp"
